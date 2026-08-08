@@ -1,0 +1,2 @@
+# Ignore runs and temporary test outputs if desired, keep weights & onnx models
+test_outputs/
